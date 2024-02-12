@@ -1,1 +1,0 @@
-# ugimoto.my.id
