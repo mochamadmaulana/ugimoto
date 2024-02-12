@@ -18,7 +18,7 @@
     <div class=container>
         <div class=row>
             <div class="left-wrap col-12 col-md-5">
-                <div class=left>
+                <div class="left" style="background-image: url('./img/247.JPG');">
                     <p><span class=days></span><span class=small> days</span></p>
                     <p><span class=hours></span><span class=small> hours</span></p>
                     <p>&nbsp;&nbsp;<span class=minutes></span><span class=small> minutes</span></p>
@@ -29,7 +29,7 @@
                 <div class=mainInfo>
                     <h1>COMING SOON</h1>
                     <p class=slogan>
-                        Di website ini menyajikan kumpulan foto dan video yang 
+                        Di website ini menyajikan kumpulan foto dan video yang
                         sudah di ambil dari beberapa pekerjaan yang sudah lalu.
                         Mulai dari Foto Wedding, Street, Potrait, Nature dan
                         masih banyak lagi
